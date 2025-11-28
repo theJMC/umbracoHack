@@ -27,7 +27,9 @@ namespace UmbracoHack25.Controllers.Api
                 return NotFound("Content not found.");
 
             var children = content.Children()
-                    .Select(c => new
+                .ToDictionary(
+                    c => c.Id, // key
+                    c => new
                     {
                         // Information section
                         information = new
@@ -46,8 +48,9 @@ namespace UmbracoHack25.Controllers.Api
                             available = true // extra property
                                              // Add more booking-specific fields here if needed
                         }
-                    })
-                    .ToList();
+                    }
+                );
+
 
             return Ok(children);
         }
