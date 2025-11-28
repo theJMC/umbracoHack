@@ -28,25 +28,5 @@ namespace UmbracoHack25.Controllers
 
             return CurrentTemplate(viewModel);
         }
-
-        // New API action returning JSON
-        [HttpGet]
-        [Route("services/api")]
-        public IActionResult GetSupportServices()
-        {
-            if (CurrentPage is null)
-                return NotFound();
-
-            var supportServices = CurrentPage.Children()
-                .Select(x => new
-                {
-                    x.Id,
-                    x.Name,
-                    Url = x.Url()
-                })
-                .ToList();
-
-            return Json(supportServices);
-        }
     }
 }

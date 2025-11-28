@@ -31,6 +31,10 @@ namespace UmbracoHack25.Controllers.Api
                 {
                     c.Id,
                     c.Name,
+                    inviteOnly = c.HasValue("inviteOnly") ? c.Value<bool>("inviteOnly") : false,
+                    target = c.HasValue("supportTarget") ? c.Value<string>("supportTarget") : "Everyone",
+                    description = c.HasValue("shorterDescription") ? c.Value<string>("shorterDescription") : "",
+                    location = c.HasValue("location") ? c.Value<string>("location") : "",
                     Url = c.Url()
                 })
                 .ToList();
