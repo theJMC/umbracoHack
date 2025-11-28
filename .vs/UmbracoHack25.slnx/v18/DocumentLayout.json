@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\repos\\umbraco\\umbracoHack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\articlelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\articlelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\components\\pagination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\components\\pagination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\author.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\author.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\article.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\article.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|c:\\dev\\repos\\umbraco\\umbracohack\\umbracohack25\\views\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E1513-F7E9-83F3-9F93-B133F0DDE183}|UmbracoHack25\\UmbracoHack25.csproj|solutionrelative:umbracohack25\\views\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "UmbracoHack25\\wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\wwwroot\\css\\index.css*",
+              "RelativeToolTip": "UmbracoHack25\\wwwroot\\css\\index.css*",
+              "ViewState": "AgIAAJJYAAAAAAAAAAAowCJaAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-28T09:30:56.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\Components\\Pagination\\Default.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\Components\\Pagination\\Default.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\Components\\Pagination\\Default.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\Components\\Pagination\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:18:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "content.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\content.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\content.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\content.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\content.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:13:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorList.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\AuthorList.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\AuthorList.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\AuthorList.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\AuthorList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:13:41.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\Author.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\Author.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\Author.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\Author.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:13:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "articleList.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\articleList.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\articleList.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\articleList.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\articleList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:13:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "article.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\article.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\article.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\article.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\article.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:13:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\home.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\home.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\home.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:13:09.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "master.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\master.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\master.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\master.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\master.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:12:53.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "search.cshtml",
+              "DocumentMoniker": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\search.cshtml",
+              "RelativeDocumentMoniker": "UmbracoHack25\\Views\\search.cshtml",
+              "ToolTip": "C:\\Dev\\repos\\umbraco\\umbracoHack\\UmbracoHack25\\Views\\search.cshtml",
+              "RelativeToolTip": "UmbracoHack25\\Views\\search.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:08:37.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
