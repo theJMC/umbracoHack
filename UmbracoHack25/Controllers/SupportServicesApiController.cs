@@ -27,17 +27,27 @@ namespace UmbracoHack25.Controllers.Api
                 return NotFound("Content not found.");
 
             var children = content.Children()
-                .Select(c => new
-                {
-                    c.Id,
-                    c.Name,
-                    inviteOnly = c.HasValue("inviteOnly") ? c.Value<bool>("inviteOnly") : false,
-                    target = c.HasValue("supportTarget") ? c.Value<string>("supportTarget") : "Everyone",
-                    description = c.HasValue("shorterDescription") ? c.Value<string>("shorterDescription") : "",
-                    location = c.HasValue("location") ? c.Value<string>("location") : "",
-                    Url = c.Url()
-                })
-                .ToList();
+                    .Select(c => new
+                    {
+                        // Information section
+                        information = new
+                        {
+                            c.Id,
+                            c.Name,
+                            inviteOnly = c.HasValue("inviteOnly") ? c.Value<bool>("inviteOnly") : false,
+                            target = c.HasValue("supportTarget") ? c.Value<string>("supportTarget") : "Everyone",
+                            description = c.HasValue("shorterDescription") ? c.Value<string>("shorterDescription") : "",
+                            location = c.HasValue("location") ? c.Value<string>("location") : "",
+                            Url = c.Url()
+                        },
+                        // Booking questions section
+                        bookingQuestions = new
+                        {
+                            available = true // extra property
+                                             // Add more booking-specific fields here if needed
+                        }
+                    })
+                    .ToList();
 
             return Ok(children);
         }
