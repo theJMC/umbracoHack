@@ -1,0 +1,15 @@
+{
+    "supermarket": [
+        {"name": "Supermarket 1", "quantity": 4},
+        {"name": "Supermarket 2", "quantity": 2},
+        {"name": "Supermarket 3", "quantity": 5}
+    ],
+    "groups": [
+        {"name": "Group A", "members": 10},
+        {"name": "Group B", "members": 15}
+    ],
+    "courses": [
+        {"title": "Course 1", "duration": "3 hours"},
+        {"title": "Course 2", "duration": "5 hours"}
+    ]
+}
