@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Umbraco.Cms.Core.Web;
 using System.Linq;
+using Umbraco.Cms.Core.Models.Blocks;
 
 namespace UmbracoHack25.Controllers.Api
 {
@@ -26,6 +27,8 @@ namespace UmbracoHack25.Controllers.Api
             if (content == null)
                 return NotFound("Content not found.");
 
+            var foo = content.Children();
+
             var children = content.Children()
                 .ToDictionary(
                     c => c.Id, // key
@@ -45,8 +48,14 @@ namespace UmbracoHack25.Controllers.Api
                         // Booking questions section
                         bookingQuestions = new
                         {
-                            available = true // extra property
-                                             // Add more booking-specific fields here if needed
+                            available = true,
+                            target = c.HasValue("additionalServiceInformation")
+                                ? c.Value<BlockListModel>("additionalServiceInformation")
+                                    ?.Select(b => new
+                                    {
+                                        funding = b.Content.HasValue("fundedPlacesAvailable") ? "Would you like to apply for funding" : null,
+                                    })
+                                : null
                         }
                     }
                 );
